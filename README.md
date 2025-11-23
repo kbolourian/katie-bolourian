@@ -65,9 +65,8 @@ As a team lead, I focus on:
 ---
 
 ## 📬 Get in Touch
-**LinkedIn:** www.linkedin.com/in/kati-bolourian-6a0297102
-**Portfolio:** 
-**Email:** kati.bolourian@gmail.com
+**LinkedIn:** www.linkedin.com/in/kati-bolourian-6a0297102 
+**Email:** kati.bolourian@gmail.com 
 
 ---
 Thanks for visiting my GitHub!
